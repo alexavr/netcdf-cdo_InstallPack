@@ -8,6 +8,6 @@
 	1. Set `CDOPATHFLODER` variable as path to your installation dir 
 	2. Set `CDONAME` variable as name of your installation dir 
 	3. Comment/uncomment tar.gz package names in `TARLIST` (if needed)
-	The good idea would be to install packages one-by-one buy commenting and uncommenting thouse.
+	*The good idea would be to install packages one-by-one buy commenting and uncommenting thouse.*
 
 
