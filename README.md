@@ -2,7 +2,7 @@
 
 
 1. Clone
-2. [Download](https://disk.yandex.com/d/_EajVbirUuVYiw) src files and unpack it in cdo_InstallPack directory
+2. [Download](http://sail.ocean.ru/downloads/cdo_InstallPack.tar.gz) src files and unpack it in cdo_InstallPack directory
 3. Make directory to install into
 4. Create an install script (you may use examples from `./install_scripts/`) 
 	1. Set `CDOPATHFLODER` variable as path to your installation dir 
