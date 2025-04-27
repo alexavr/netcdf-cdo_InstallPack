@@ -29,7 +29,7 @@ source functions.sh
 # USER'S BLOCK
 # 1. Path to place the cdo folder and cdo version [CHANGE THIS]
 CDOPATHFLODER="/gpfs/gpfs0/al.gavrilov/opt/"
-CDONAME="netcdf"
+CDONAME="netcdf-serial"
 # 2. Filenames to install 
 # The elements are placed in the installation order, so it is RELEVANT!!! 
 TARLIST=(
