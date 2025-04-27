@@ -34,10 +34,10 @@ CDONAME="netcdf"
 # The elements are placed in the installation order, so it is RELEVANT!!! 
 TARLIST=(
   "szip-2.1.1.tar.gz"
-  "zlib-1.2.8.tar.gz"
-  "hdf5-1.10.5.tar.gz"
-  "netcdf-c-4.7.2.tar.gz"
-  "netcdf-fortran-4.5.2.tar.gz" 
+  # "zlib-1.2.8.tar.gz"
+  # "hdf5-1.10.5.tar.gz"
+  # "netcdf-c-4.7.2.tar.gz"
+  # "netcdf-fortran-4.5.2.tar.gz" 
   # "jasper-1.900.1.tar.gz"         # newer releases under CMake      
   # "curl-7.67.0.tar.gz"
   # "proj-6.2.1.tar.gz"
